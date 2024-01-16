@@ -1,4 +1,6 @@
 # week2
 html/css
 
-learning Git/Github
+1. First item
+2. Second item
+3. Third itemlearning Git/Github
